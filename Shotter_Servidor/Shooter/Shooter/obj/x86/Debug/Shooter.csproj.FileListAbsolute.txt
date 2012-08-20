@@ -1,0 +1,103 @@
+C:\Users\Achanigo\Documents\ITC\Visual Studio\Shooter\Shooter\Shooter\bin\x86\Debug\Content\bgLayer1.xnb
+C:\Users\Achanigo\Documents\ITC\Visual Studio\Shooter\Shooter\Shooter\bin\x86\Debug\Content\bgLayer2.xnb
+C:\Users\Achanigo\Documents\ITC\Visual Studio\Shooter\Shooter\Shooter\bin\x86\Debug\Content\endMenu.xnb
+C:\Users\Achanigo\Documents\ITC\Visual Studio\Shooter\Shooter\Shooter\bin\x86\Debug\Content\explosion.xnb
+C:\Users\Achanigo\Documents\ITC\Visual Studio\Shooter\Shooter\Shooter\bin\x86\Debug\Content\laser.xnb
+C:\Users\Achanigo\Documents\ITC\Visual Studio\Shooter\Shooter\Shooter\bin\x86\Debug\Content\mainbackground.xnb
+C:\Users\Achanigo\Documents\ITC\Visual Studio\Shooter\Shooter\Shooter\bin\x86\Debug\Content\mainMenu.xnb
+C:\Users\Achanigo\Documents\ITC\Visual Studio\Shooter\Shooter\Shooter\bin\x86\Debug\Content\mine.xnb
+C:\Users\Achanigo\Documents\ITC\Visual Studio\Shooter\Shooter\Shooter\bin\x86\Debug\Content\mineAnimation.xnb
+C:\Users\Achanigo\Documents\ITC\Visual Studio\Shooter\Shooter\Shooter\bin\x86\Debug\Content\player.xnb
+C:\Users\Achanigo\Documents\ITC\Visual Studio\Shooter\Shooter\Shooter\bin\x86\Debug\Content\shipAnimation.xnb
+C:\Users\Achanigo\Documents\ITC\Visual Studio\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\explosion.xnb
+C:\Users\Achanigo\Documents\ITC\Visual Studio\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\laserFire.xnb
+C:\Users\Achanigo\Documents\ITC\Visual Studio\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\gameMusic.xnb
+C:\Users\Achanigo\Documents\ITC\Visual Studio\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\menuMusic.xnb
+C:\Users\Achanigo\Documents\ITC\Visual Studio\Shooter\Shooter\Shooter\bin\x86\Debug\Content\gameFont.xnb
+C:\Users\Achanigo\Documents\ITC\Visual Studio\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\gameMusic.wma
+C:\Users\Achanigo\Documents\ITC\Visual Studio\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\menuMusic.wma
+C:\Users\Achanigo\Documents\ITC\Visual Studio\Shooter\Shooter\Shooter\bin\x86\Debug\Shooter.exe
+C:\Users\Achanigo\Documents\ITC\Visual Studio\Shooter\Shooter\Shooter\bin\x86\Debug\Shooter.pdb
+C:\Users\Achanigo\Documents\ITC\Visual Studio\Shooter\Shooter\Shooter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Achanigo\Documents\ITC\Visual Studio\Shooter\Shooter\Shooter\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Achanigo\Documents\ITC\Visual Studio\Shooter\Shooter\Shooter\obj\x86\Debug\Shooter.exe
+C:\Users\Achanigo\Documents\ITC\Visual Studio\Shooter\Shooter\Shooter\obj\x86\Debug\Shooter.pdb
+C:\Users\MSlab\Desktop\Shooter\Shooter\Shooter\bin\x86\Debug\Content\bgLayer1.xnb
+C:\Users\MSlab\Desktop\Shooter\Shooter\Shooter\bin\x86\Debug\Content\bgLayer2.xnb
+C:\Users\MSlab\Desktop\Shooter\Shooter\Shooter\bin\x86\Debug\Content\endMenu.xnb
+C:\Users\MSlab\Desktop\Shooter\Shooter\Shooter\bin\x86\Debug\Content\explosion.xnb
+C:\Users\MSlab\Desktop\Shooter\Shooter\Shooter\bin\x86\Debug\Content\laser.xnb
+C:\Users\MSlab\Desktop\Shooter\Shooter\Shooter\bin\x86\Debug\Content\mainbackground.xnb
+C:\Users\MSlab\Desktop\Shooter\Shooter\Shooter\bin\x86\Debug\Content\mainMenu.xnb
+C:\Users\MSlab\Desktop\Shooter\Shooter\Shooter\bin\x86\Debug\Content\mine.xnb
+C:\Users\MSlab\Desktop\Shooter\Shooter\Shooter\bin\x86\Debug\Content\mineAnimation.xnb
+C:\Users\MSlab\Desktop\Shooter\Shooter\Shooter\bin\x86\Debug\Content\player.xnb
+C:\Users\MSlab\Desktop\Shooter\Shooter\Shooter\bin\x86\Debug\Content\shipAnimation.xnb
+C:\Users\MSlab\Desktop\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\explosion.xnb
+C:\Users\MSlab\Desktop\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\laserFire.xnb
+C:\Users\MSlab\Desktop\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\gameMusic.xnb
+C:\Users\MSlab\Desktop\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\menuMusic.xnb
+C:\Users\MSlab\Desktop\Shooter\Shooter\Shooter\bin\x86\Debug\Content\gameFont.xnb
+C:\Users\MSlab\Desktop\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\gameMusic.wma
+C:\Users\MSlab\Desktop\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\menuMusic.wma
+C:\Users\MSlab\Desktop\Shooter\Shooter\Shooter\bin\x86\Debug\Shooter.exe
+C:\Users\MSlab\Desktop\Shooter\Shooter\Shooter\bin\x86\Debug\Shooter.pdb
+C:\Users\MSlab\Desktop\Shooter\Shooter\Shooter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MSlab\Desktop\Shooter\Shooter\Shooter\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\MSlab\Desktop\Shooter\Shooter\Shooter\obj\x86\Debug\Shooter.exe
+C:\Users\MSlab\Desktop\Shooter\Shooter\Shooter\obj\x86\Debug\Shooter.pdb
+C:\Users\MSlab\Desktop\Shooter\Shooter\Shooter\bin\x86\Debug\Content\shipAnimation2.xnb
+C:\Users\MSLab\Desktop\pablo\New folder\Shooter\Shooter\Shooter\bin\x86\Debug\Content\bgLayer1.xnb
+C:\Users\MSLab\Desktop\pablo\New folder\Shooter\Shooter\Shooter\bin\x86\Debug\Content\bgLayer2.xnb
+C:\Users\MSLab\Desktop\pablo\New folder\Shooter\Shooter\Shooter\bin\x86\Debug\Content\endMenu.xnb
+C:\Users\MSLab\Desktop\pablo\New folder\Shooter\Shooter\Shooter\bin\x86\Debug\Content\explosion.xnb
+C:\Users\MSLab\Desktop\pablo\New folder\Shooter\Shooter\Shooter\bin\x86\Debug\Content\laser.xnb
+C:\Users\MSLab\Desktop\pablo\New folder\Shooter\Shooter\Shooter\bin\x86\Debug\Content\mainbackground.xnb
+C:\Users\MSLab\Desktop\pablo\New folder\Shooter\Shooter\Shooter\bin\x86\Debug\Content\mainMenu.xnb
+C:\Users\MSLab\Desktop\pablo\New folder\Shooter\Shooter\Shooter\bin\x86\Debug\Content\mine.xnb
+C:\Users\MSLab\Desktop\pablo\New folder\Shooter\Shooter\Shooter\bin\x86\Debug\Content\mineAnimation.xnb
+C:\Users\MSLab\Desktop\pablo\New folder\Shooter\Shooter\Shooter\bin\x86\Debug\Content\player.xnb
+C:\Users\MSLab\Desktop\pablo\New folder\Shooter\Shooter\Shooter\bin\x86\Debug\Content\shipAnimation.xnb
+C:\Users\MSLab\Desktop\pablo\New folder\Shooter\Shooter\Shooter\bin\x86\Debug\Content\shipAnimation2.xnb
+C:\Users\MSLab\Desktop\pablo\New folder\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\explosion.xnb
+C:\Users\MSLab\Desktop\pablo\New folder\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\laserFire.xnb
+C:\Users\MSLab\Desktop\pablo\New folder\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\gameMusic.xnb
+C:\Users\MSLab\Desktop\pablo\New folder\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\menuMusic.xnb
+C:\Users\MSLab\Desktop\pablo\New folder\Shooter\Shooter\Shooter\bin\x86\Debug\Content\gameFont.xnb
+C:\Users\MSLab\Desktop\pablo\New folder\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\gameMusic.wma
+C:\Users\MSLab\Desktop\pablo\New folder\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\menuMusic.wma
+C:\Users\MSLab\Desktop\pablo\New folder\Shooter\Shooter\Shooter\bin\x86\Debug\Shooter.exe
+C:\Users\MSLab\Desktop\pablo\New folder\Shooter\Shooter\Shooter\bin\x86\Debug\Shooter.pdb
+C:\Users\MSLab\Desktop\pablo\New folder\Shooter\Shooter\Shooter\bin\x86\Debug\Server.dll
+C:\Users\MSLab\Desktop\pablo\New folder\Shooter\Shooter\Shooter\bin\x86\Debug\Server.pdb
+C:\Users\MSLab\Desktop\pablo\New folder\Shooter\Shooter\Shooter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MSLab\Desktop\pablo\New folder\Shooter\Shooter\Shooter\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\MSLab\Desktop\pablo\New folder\Shooter\Shooter\Shooter\obj\x86\Debug\Shooter.exe
+C:\Users\MSLab\Desktop\pablo\New folder\Shooter\Shooter\Shooter\obj\x86\Debug\Shooter.pdb
+C:\Users\Achanigo\Desktop\Shotter_Servidor\Shooter\Shooter\bin\x86\Debug\Content\bgLayer1.xnb
+C:\Users\Achanigo\Desktop\Shotter_Servidor\Shooter\Shooter\bin\x86\Debug\Content\bgLayer2.xnb
+C:\Users\Achanigo\Desktop\Shotter_Servidor\Shooter\Shooter\bin\x86\Debug\Content\endMenu.xnb
+C:\Users\Achanigo\Desktop\Shotter_Servidor\Shooter\Shooter\bin\x86\Debug\Content\explosion.xnb
+C:\Users\Achanigo\Desktop\Shotter_Servidor\Shooter\Shooter\bin\x86\Debug\Content\laser.xnb
+C:\Users\Achanigo\Desktop\Shotter_Servidor\Shooter\Shooter\bin\x86\Debug\Content\mainbackground.xnb
+C:\Users\Achanigo\Desktop\Shotter_Servidor\Shooter\Shooter\bin\x86\Debug\Content\mainMenu.xnb
+C:\Users\Achanigo\Desktop\Shotter_Servidor\Shooter\Shooter\bin\x86\Debug\Content\mine.xnb
+C:\Users\Achanigo\Desktop\Shotter_Servidor\Shooter\Shooter\bin\x86\Debug\Content\mineAnimation.xnb
+C:\Users\Achanigo\Desktop\Shotter_Servidor\Shooter\Shooter\bin\x86\Debug\Content\player.xnb
+C:\Users\Achanigo\Desktop\Shotter_Servidor\Shooter\Shooter\bin\x86\Debug\Content\shipAnimation.xnb
+C:\Users\Achanigo\Desktop\Shotter_Servidor\Shooter\Shooter\bin\x86\Debug\Content\shipAnimation2.xnb
+C:\Users\Achanigo\Desktop\Shotter_Servidor\Shooter\Shooter\bin\x86\Debug\Content\Sound\explosion.xnb
+C:\Users\Achanigo\Desktop\Shotter_Servidor\Shooter\Shooter\bin\x86\Debug\Content\Sound\laserFire.xnb
+C:\Users\Achanigo\Desktop\Shotter_Servidor\Shooter\Shooter\bin\x86\Debug\Content\Sound\gameMusic.xnb
+C:\Users\Achanigo\Desktop\Shotter_Servidor\Shooter\Shooter\bin\x86\Debug\Content\Sound\menuMusic.xnb
+C:\Users\Achanigo\Desktop\Shotter_Servidor\Shooter\Shooter\bin\x86\Debug\Content\gameFont.xnb
+C:\Users\Achanigo\Desktop\Shotter_Servidor\Shooter\Shooter\bin\x86\Debug\Content\Sound\gameMusic.wma
+C:\Users\Achanigo\Desktop\Shotter_Servidor\Shooter\Shooter\bin\x86\Debug\Content\Sound\menuMusic.wma
+C:\Users\Achanigo\Desktop\Shotter_Servidor\Shooter\Shooter\bin\x86\Debug\Shooter.exe
+C:\Users\Achanigo\Desktop\Shotter_Servidor\Shooter\Shooter\bin\x86\Debug\Shooter.pdb
+C:\Users\Achanigo\Desktop\Shotter_Servidor\Shooter\Shooter\bin\x86\Debug\Server.dll
+C:\Users\Achanigo\Desktop\Shotter_Servidor\Shooter\Shooter\bin\x86\Debug\Server.pdb
+C:\Users\Achanigo\Desktop\Shotter_Servidor\Shooter\Shooter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Achanigo\Desktop\Shotter_Servidor\Shooter\Shooter\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Achanigo\Desktop\Shotter_Servidor\Shooter\Shooter\obj\x86\Debug\Shooter.exe
+C:\Users\Achanigo\Desktop\Shotter_Servidor\Shooter\Shooter\obj\x86\Debug\Shooter.pdb

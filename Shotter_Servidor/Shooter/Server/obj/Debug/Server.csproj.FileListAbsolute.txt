@@ -1,0 +1,15 @@
+C:\Users\MSLab\Desktop\pablo\Proyectod e 6to\Proyecto version alfa\Proyecto\UDPClient\Server\bin\Debug\Server.dll
+C:\Users\MSLab\Desktop\pablo\Proyectod e 6to\Proyecto version alfa\Proyecto\UDPClient\Server\bin\Debug\Server.pdb
+C:\Users\MSLab\Desktop\pablo\Proyectod e 6to\Proyecto version alfa\Proyecto\UDPClient\Server\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MSLab\Desktop\pablo\Proyectod e 6to\Proyecto version alfa\Proyecto\UDPClient\Server\obj\Debug\Server.dll
+C:\Users\MSLab\Desktop\pablo\Proyectod e 6to\Proyecto version alfa\Proyecto\UDPClient\Server\obj\Debug\Server.pdb
+C:\Users\MSLab\Desktop\pablo\New folder\Shooter\Shooter\Server\bin\Debug\Server.dll
+C:\Users\MSLab\Desktop\pablo\New folder\Shooter\Shooter\Server\bin\Debug\Server.pdb
+C:\Users\MSLab\Desktop\pablo\New folder\Shooter\Shooter\Server\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MSLab\Desktop\pablo\New folder\Shooter\Shooter\Server\obj\Debug\Server.dll
+C:\Users\MSLab\Desktop\pablo\New folder\Shooter\Shooter\Server\obj\Debug\Server.pdb
+C:\Users\Achanigo\Desktop\Shotter_Servidor\Shooter\Server\bin\Debug\Server.dll
+C:\Users\Achanigo\Desktop\Shotter_Servidor\Shooter\Server\bin\Debug\Server.pdb
+C:\Users\Achanigo\Desktop\Shotter_Servidor\Shooter\Server\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Achanigo\Desktop\Shotter_Servidor\Shooter\Server\obj\Debug\Server.dll
+C:\Users\Achanigo\Desktop\Shotter_Servidor\Shooter\Server\obj\Debug\Server.pdb

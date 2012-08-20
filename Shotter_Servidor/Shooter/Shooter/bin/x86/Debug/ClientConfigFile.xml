@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Configuration>
+  <Client>    
+    <Ip>192.168.1.13</Ip>
+    <Port>6060</Port>
+  </Client>
+  <Server>
+    <Ip>192.168.1.10</Ip>
+    <Port>6161</Port>
+  </Server>
+</Configuration>

@@ -1,0 +1,4 @@
+C:\Users\Achanigo\Documents\ITC\Visual Studio\Shooter\Shooter\ShooterContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MSlab\Desktop\Shooter\Shooter\ShooterContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MSLab\Desktop\pablo\New folder\Shooter\Shooter\ShooterContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Achanigo\Desktop\Shotter_Servidor\Shooter\ShooterContent\obj\x86\Debug\ResolveAssemblyReference.cache
